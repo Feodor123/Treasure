@@ -1,0 +1,48 @@
+C:\Users\Axel\Documents\Visual Studio 2015\Projects\Treasure!\Treasure!\Treasure_\obj\x86\Debug\Treasure_.csprojResolveAssemblyReference.cache
+C:\Users\Axel\Documents\Visual Studio 2015\Projects\Treasure!\Treasure!\Treasure_\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Axel\Documents\Visual Studio 2015\Projects\Treasure!\Treasure!\Treasure_\bin\x86\Debug\Content\TileTexture.xnb
+C:\Users\Axel\Documents\Visual Studio 2015\Projects\Treasure!\Treasure!\Treasure_\bin\x86\Debug\Treasure_.exe
+C:\Users\Axel\Documents\Visual Studio 2015\Projects\Treasure!\Treasure!\Treasure_\bin\x86\Debug\Treasure_.pdb
+C:\Users\Axel\Documents\Visual Studio 2015\Projects\Treasure!\Treasure!\Treasure_\bin\x86\Debug\Microsoft.Xna.Framework.dll
+C:\Users\Axel\Documents\Visual Studio 2015\Projects\Treasure!\Treasure!\Treasure_\bin\x86\Debug\Microsoft.Xna.Framework.Game.dll
+C:\Users\Axel\Documents\Visual Studio 2015\Projects\Treasure!\Treasure!\Treasure_\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.dll
+C:\Users\Axel\Documents\Visual Studio 2015\Projects\Treasure!\Treasure!\Treasure_\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.dll
+C:\Users\Axel\Documents\Visual Studio 2015\Projects\Treasure!\Treasure!\Treasure_\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.dll
+C:\Users\Axel\Documents\Visual Studio 2015\Projects\Treasure!\Treasure!\Treasure_\bin\x86\Debug\Microsoft.Xna.Framework.xml
+C:\Users\Axel\Documents\Visual Studio 2015\Projects\Treasure!\Treasure!\Treasure_\bin\x86\Debug\Microsoft.Xna.Framework.Game.xml
+C:\Users\Axel\Documents\Visual Studio 2015\Projects\Treasure!\Treasure!\Treasure_\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.xml
+C:\Users\Axel\Documents\Visual Studio 2015\Projects\Treasure!\Treasure!\Treasure_\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.xml
+C:\Users\Axel\Documents\Visual Studio 2015\Projects\Treasure!\Treasure!\Treasure_\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.xml
+C:\Users\Axel\Documents\Visual Studio 2015\Projects\Treasure!\Treasure!\Treasure_\obj\x86\Debug\Treasure_.exe
+C:\Users\Axel\Documents\Visual Studio 2015\Projects\Treasure!\Treasure!\Treasure_\obj\x86\Debug\Treasure_.pdb
+C:\Users\Axel\Documents\Visual Studio 2015\Projects\Treasure!\Treasure!\Treasure_\bin\x86\Debug\Content\font14.xnb
+C:\Users\user\Downloads\Treasure! (1)\Treasure!\Treasure!\Treasure_\obj\x86\Debug\Treasure_.exe
+C:\Users\user\Downloads\Treasure! (1)\Treasure!\Treasure!\Treasure_\obj\x86\Debug\Treasure_.pdb
+C:\Users\user\Downloads\Treasure! (1)\Treasure!\Treasure!\Treasure_\bin\x86\Debug\Content\TileTexture.xnb
+C:\Users\user\Downloads\Treasure! (1)\Treasure!\Treasure!\Treasure_\bin\x86\Debug\Content\font14.xnb
+C:\Users\user\Downloads\Treasure! (1)\Treasure!\Treasure!\Treasure_\bin\x86\Debug\Treasure_.exe
+C:\Users\user\Downloads\Treasure! (1)\Treasure!\Treasure!\Treasure_\bin\x86\Debug\Treasure_.pdb
+C:\Users\user\Downloads\Treasure! (1)\Treasure!\Treasure!\Treasure_\obj\x86\Debug\Treasure_.csprojResolveAssemblyReference.cache
+C:\Users\user\Downloads\Treasure! (1)\Treasure!\Treasure!\Treasure_\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Axel\Desktop\Treasure!\Treasure!\Treasure_\bin\x86\Debug\Content\TileTexture.xnb
+C:\Users\Axel\Desktop\Treasure!\Treasure!\Treasure_\bin\x86\Debug\Content\font14.xnb
+C:\Users\Axel\Desktop\Treasure!\Treasure!\Treasure_\bin\x86\Debug\Treasure_.exe
+C:\Users\Axel\Desktop\Treasure!\Treasure!\Treasure_\bin\x86\Debug\Treasure_.pdb
+C:\Users\Axel\Desktop\Treasure!\Treasure!\Treasure_\bin\x86\Debug\Microsoft.Xna.Framework.dll
+C:\Users\Axel\Desktop\Treasure!\Treasure!\Treasure_\bin\x86\Debug\Microsoft.Xna.Framework.Game.dll
+C:\Users\Axel\Desktop\Treasure!\Treasure!\Treasure_\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.dll
+C:\Users\Axel\Desktop\Treasure!\Treasure!\Treasure_\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.dll
+C:\Users\Axel\Desktop\Treasure!\Treasure!\Treasure_\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.dll
+C:\Users\Axel\Desktop\Treasure!\Treasure!\Treasure_\bin\x86\Debug\Microsoft.Xna.Framework.xml
+C:\Users\Axel\Desktop\Treasure!\Treasure!\Treasure_\bin\x86\Debug\Microsoft.Xna.Framework.Game.xml
+C:\Users\Axel\Desktop\Treasure!\Treasure!\Treasure_\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.xml
+C:\Users\Axel\Desktop\Treasure!\Treasure!\Treasure_\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.xml
+C:\Users\Axel\Desktop\Treasure!\Treasure!\Treasure_\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.xml
+C:\Users\Axel\Desktop\Treasure!\Treasure!\Treasure_\obj\x86\Debug\Treasure_.csprojResolveAssemblyReference.cache
+C:\Users\Axel\Desktop\Treasure!\Treasure!\Treasure_\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Axel\Desktop\Treasure!\Treasure!\Treasure_\obj\x86\Debug\Treasure_.exe
+C:\Users\Axel\Desktop\Treasure!\Treasure!\Treasure_\obj\x86\Debug\Treasure_.pdb
+C:\Users\Axel\Documents\Visual Studio 2015\Projects\Treasure!\Treasure!\Treasure_\bin\x86\Debug\Content\Cross_0.xnb
+C:\Users\Axel\Documents\Visual Studio 2015\Projects\Treasure!\Treasure!\Treasure_\bin\x86\Debug\Content\headpiece.xnb
+C:\Users\Axel\Documents\Visual Studio 2015\Projects\Treasure!\Treasure!\Treasure_\bin\x86\Debug\Treasure_.exe.config
+C:\Users\Axel\Documents\Visual Studio 2015\Projects\Treasure!\Treasure!\Treasure_\bin\x86\Debug\Content\sokrovischa.xnb

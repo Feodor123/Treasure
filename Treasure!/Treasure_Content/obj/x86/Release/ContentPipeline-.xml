@@ -1,0 +1,82 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>TileTexture.png</Source>
+      <Name>TileTexture</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Axel\Documents\Visual Studio 2015\Projects\Treasure!\Treasure!\Treasure_\bin\x86\Release\Content\TileTexture.xnb</Output>
+      <Time>2016-09-20T09:34:16.359947+03:00</Time>
+    </Item>
+    <Item>
+      <Source>font14.spritefont</Source>
+      <Name>font14</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Axel\Documents\Visual Studio 2015\Projects\Treasure!\Treasure!\Treasure_\bin\x86\Release\Content\font14.xnb</Output>
+      <Time>2016-09-29T13:24:14.6527261+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Cross.png</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Axel\Documents\Visual Studio 2015\Projects\Treasure!\Treasure!\Treasure_\bin\x86\Release\Content\Cross_0.xnb</Output>
+      <Time>2016-11-25T21:07:30.7084+03:00</Time>
+    </Item>
+    <Item>
+      <Source>headpiece.png</Source>
+      <Name>headpiece</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Axel\Documents\Visual Studio 2015\Projects\Treasure!\Treasure!\Treasure_\bin\x86\Release\Content\headpiece.xnb</Output>
+      <Time>2016-12-15T17:01:08.634+03:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <ContentProjectGUID Null="true" />
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Release</BuildConfiguration>
+      <CompressContent>true</CompressContent>
+      <RootDirectory>C:\Users\Axel\Documents\Visual Studio 2015\Projects\Treasure!\Treasure!\Treasure_Content\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\Axel\Documents\Visual Studio 2015\Projects\Treasure!\Treasure!\Treasure_\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\Axel\Documents\Visual Studio 2015\Projects\Treasure!\Treasure!\Treasure_Content\obj\x86\Release\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\Axel\Documents\Visual Studio 2015\Projects\Treasure!\Treasure!\Treasure_\bin\x86\Release\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2011-09-01T17:22:30+04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2011-09-01T17:22:30+04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2011-09-01T17:22:30+04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2011-09-01T17:22:30+04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2011-09-01T17:22:30+04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2011-09-01T17:22:30+04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2016-03-27T15:27:53.0218+03:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>
